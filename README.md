@@ -149,6 +149,8 @@ If at least one of the keys is missing:
 }
 ```
 
+<br/>
+
 <h2 align ='center'> Get all vaccination cards </h2>
 <br/>
 
